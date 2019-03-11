@@ -1,0 +1,4 @@
+America {Dog, Cat, Bird, Fish, Caribou, Plant, Worm}
+Antarctica {}
+Australia {Dingo, Bird, Fish, Cat, Dingo, Kangaroo, Plant, Worm}
+Africa {Plant, Worm, Bird, Cat, Lion, Gazelle}
