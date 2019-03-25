@@ -1,0 +1,6 @@
+pine 10000
+spruce 20000
+sequoia 5
+cacao 92
+papaya 700
+oak 15000
