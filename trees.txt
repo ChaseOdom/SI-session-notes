@@ -1,4 +1,5 @@
 6
+Mount_Meru Ngorongoro_Crater Tarangire Arusha_National
 pine
 10000 2 30 5
 spruce
