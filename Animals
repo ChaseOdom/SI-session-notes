@@ -1,0 +1,13 @@
+Total Animals: 11
+
+Dog { Bird }
+Cat { Bird, Fish }
+Bird { Worm, Fish }
+Fish { Plant, Fish }
+Gazelle { Plant }
+Lion { Gazelle }
+Caribou { Plant }
+Plant { }
+Worm { }
+Dingo { Kangaroo, Cat, Dog }
+Kangaroo { Plant }
